@@ -1,5 +1,16 @@
 # CS535 Covid Big Data Project
 
+***This project was done by 4 members. 
+
+***Allison Chilton,
+Laksheen Mendis,
+Menuka Warushavithana,
+Rachit dalal
+
+***Original repository is at https://gitlab.com/grad-school/cs535-term-project
+However, due to inability to make it a public repository, I have replicated the same repository here in github.
+Thus, all of the commited files are not my work***
+
 ## Initial setup
 1. Clone this repository
 2. `python3 -m venv venv`
